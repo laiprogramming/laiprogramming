@@ -1,26 +1,8 @@
-# Bouncing Balls Program
+# Lai Programming - [Watch on Youtube](https://youtu.be/W9fdczla2ds)
+## Teaching Python Programming for Beginners
 
-### Watch the Full Tutorial on [Lai Programming Youtube Channel](https://youtu.be/W9fdczla2ds)
+This folder contains source code used in videos from Lai Programming Youtube Channel
 
-This folder contains the source code for creating a bouncing balls program, broken down into seven steps.
-
-### Steps Overview:
-
-1. **Setup Pygame**  
-2. **Draw Circle and Ball**
-3. **Drop the Ball**
-4. **Bounce the Ball**
-5. **Spin the Circle**
-6. **Drop Ball Out of Circle**
-7. **Multiple Balls**
-
-The final program can be found in `step7.py`.
-
-### Requirements
-
-- **Python 3**
-- **Pygame** and **NumPy** libraries
-
-To run the code, make sure you have both libraries installed.
+1. [Bouncing Balls Program](https://github.com/laiprogramming/laiprogramming/tree/main/bouncing_balls)
 
 ![Bouncing Balls Program Screenshot](screenshot.png)
