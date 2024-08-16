@@ -23,4 +23,4 @@ The final program can be found in `step7.py`.
 
 To run the code, make sure you have both libraries installed.
 
-<img src="bouncing_balls/screenshot.png" alt="Bouncing Balls Program Screenshot" width="400"/>
+<img src="screenshot.png" alt="Bouncing Balls Program Screenshot" width="200"/>
