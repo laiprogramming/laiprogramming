@@ -5,4 +5,4 @@ This folder contains source code used in videos from Lai Programming Youtube Cha
 
 1. [Bouncing Balls Program](https://github.com/laiprogramming/laiprogramming/tree/main/bouncing_balls)
 
-![Bouncing Balls Program Screenshot](screenshot.png)
+![Bouncing Balls Program Screenshot](bouncing_balls/screenshot.png)
