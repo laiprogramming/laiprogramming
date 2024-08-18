@@ -1,9 +1,8 @@
 # Bouncing Balls Program
 
 ### [Watch Full Tutorial](https://youtu.be/W9fdczla2ds)
-
 This folder contains the source code for creating a bouncing balls program, broken down into 7 steps.
-
+<img src="screenshot.png" alt="Bouncing Balls Program Screenshot" width="200"/>\
 ### Steps Overview:
 
 1. **Setup Pygame**  
@@ -22,5 +21,3 @@ The final program can be found in `step7.py`.
 - **Pygame** and **NumPy** libraries
 
 To run the code, make sure you have both libraries installed.
-
-<img src="screenshot.png" alt="Bouncing Balls Program Screenshot" width="200"/>
