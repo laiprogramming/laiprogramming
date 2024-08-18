@@ -1,8 +1,8 @@
 # Bouncing Balls Program
 
-### Watch the Full Tutorial on [Lai Programming Youtube Channel](https://youtu.be/W9fdczla2ds)
+### [Watch Full Tutorial](https://youtu.be/W9fdczla2ds)
 
-This folder contains the source code for creating a bouncing balls program, broken down into seven steps.
+This folder contains the source code for creating a bouncing balls program, broken down into 7 steps.
 
 ### Steps Overview:
 
