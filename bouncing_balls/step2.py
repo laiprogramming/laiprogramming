@@ -24,10 +24,3 @@ while running:
 	pygame.display.flip()
 	clock.tick(60)
 pygame.quit()
-
-104333137 Mannamarakkalage Geenodh Risinu Cooray
-101926301 Liam Joyce
-104093910 Pulkit Pannu
-7696663 Joshua Stone
-104220556 Khang Vo
-104792990 Rajasinghe Keshini Munasinghe
