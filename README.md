@@ -1,6 +1,6 @@
 ## Python Programming Projects for Beginners
 
-This repositories contains source code used in videos from [Lai Programming Youtube Channel](https://youtube.com/@laiprogramming)
+This repositories contains source code used in my coding tutorial [English channel](https://youtube.com/@laiprogramming), [Vietnamese channel](https://youtube.com/dunglailaptrinh)
 
 1. [Bouncing Balls Program](https://github.com/laiprogramming/laiprogramming/tree/main/bouncing_balls)
 
