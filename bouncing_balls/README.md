@@ -1,6 +1,8 @@
 # Bouncing Balls Program
 
-### [Watch Full Tutorial](https://youtu.be/W9fdczla2ds)
+### [Watch Full Tutorial in English](https://youtu.be/W9fdczla2ds)
+### [Watch Full Tutorial in Vietnamese](https://youtu.be/sgQJWAuc_kM)
+
 This folder contains the source code for creating a bouncing balls program, broken down into 7 steps.
 
 <img src="screenshot.png" alt="Bouncing Balls Program Screenshot" width="200"/>
