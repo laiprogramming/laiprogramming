@@ -1,4 +1,4 @@
-## Python Programming Projects for Beginners
+
 
 This repositories contains source code used in my coding tutorials ([English channel](https://youtube.com/@laiprogramming), [Vietnamese channel](https://youtube.com/dunglailaptrinh))
 
