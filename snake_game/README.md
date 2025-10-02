@@ -1,0 +1,14 @@
+# Snake Game Program
+
+### [Watch Full Tutorial in Vietnamese](https://youtu.be/LEPwS2NFyvc)
+
+This folder contains the source code for creating a snake game in python, broken down into 7 steps.
+
+The final program can be found in `code_snake_7.py`.
+
+### Requirements
+
+- **Python 3**
+- **Pygame** libraries
+
+To run the code, make sure you have both libraries installed.
