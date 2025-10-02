@@ -7,3 +7,4 @@ This repositories contains source code used in my coding tutorials ([English cha
 <img src="bouncing_balls/screenshot.png" alt="Bouncing Balls Program Screenshot" width="200"/>
 
 [Snake Game](https://github.com/laiprogramming/laiprogramming/tree/main/snake_game)
+<img src="snake_game/screenshot.png" alt="Snake Game Screenshot" width="200"/>
