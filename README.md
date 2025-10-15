@@ -9,3 +9,7 @@ This repositories contains source code used in my coding tutorials ([English cha
 [Snake Game](https://github.com/laiprogramming/laiprogramming/tree/main/snake_game)
 
 <img src="snake_game/screenshot.png" alt="Snake Game Screenshot" width="200"/>
+
+[Snake Game](https://github.com/laiprogramming/laiprogramming/tree/main/flappy_bird)
+
+<img src="flappy_bird/screenshot.png" alt="Flappy Bird Game Screenshot" width="200"/>
